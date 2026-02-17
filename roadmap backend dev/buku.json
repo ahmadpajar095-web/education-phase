@@ -1,0 +1,17 @@
+[
+    {
+        "judul": "Python Dasar",
+        "penulis": "Andi",
+        "tahun": 2021
+    },
+    {
+        "judul": "Data Science",
+        "penulis": "Budi",
+        "tahun": 2022
+    },
+    {
+        "judul": "Machine Learning",
+        "penulis": "Citra",
+        "tahun": 2023
+    }
+]
